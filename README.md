@@ -13,10 +13,10 @@ This is the backend API hosted on Heroku, created with Ruby on Rails. It acts as
 [Video Demo](https://youtu.be/0LR2igzIuHQ)
 
 Created by 
-- Will Spencer
-- Jack Hooper
-- Alec Yates
-- Jack McCarthy
+- Will Spencer (willspencer16)
+- Jack Hooper (crotchetycrow)
+- Alec Yates (Yates101)
+- Jack McCarthy (jackmcc08)
 
 ## To use
 - To interact and use the entire application, please follow the instructions in the [Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe) 
@@ -46,7 +46,7 @@ By the end of the two weeks, we had implemented a functioning API which could in
 
 ## To see the code and develop further
 
-**Note - this is a forked repo, the frontend is linked to a different Heroku hosted API (which this repo is cloned from**
+**Note - this is a forked repo, the frontend is linked to a different Heroku hosted API (which this repo is cloned from)**
 
 First, clone this repository. Then:
 
